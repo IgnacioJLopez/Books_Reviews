@@ -28,6 +28,6 @@ The scripts in this repository require the following libraries to be installed:
 - NLTK
 - Matplotlib
 
-<h2>Conclision</h2>
+<h2>Conclusion</h2>
 
 This repository provides an end-to-end solution for the Goodreads Book Review Rating Prediction challenge. The different scripts can be used to perform data cleaning, exploratory data analysis, feature extraction, and prediction using machine learning models.
